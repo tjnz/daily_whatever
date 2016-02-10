@@ -1,5 +1,7 @@
-require "daily_whatever/version"
+require 'open-uri'
+require 'nokogiri'
+require 'pry'
 
-module DailyWhatever
-  # Your code goes here...
-end
+require "daily_whatever/version"
+require "daily_whatever/whatever"
+require "daily_whatever/cli"

@@ -1,0 +1,3 @@
+class DailyWhatever::Whatever
+	
+end
